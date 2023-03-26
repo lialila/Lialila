@@ -1,1 +1,2 @@
-Training the git-skills.
+Hi 👋 I'm Uliana Cheklina
+<hr>
