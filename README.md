@@ -13,3 +13,5 @@ JavaScript, React, Next.js 13, TypeScript, PostgreSQL, Git, Figma
 Python, C, Angular, Java
 
 <h1>Connect with me:</h1>
+https://www.linkedin.com/in/uliana-cheklina
+uche0790@gmail.com
