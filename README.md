@@ -1,4 +1,4 @@
-### Hi there 👋, 👋 Hey! I'm Uliana Cheklina
+### 👋 Hey! I'm Uliana
 
 👩🏻‍💻 I'm web developer based in Vienna.  
 ✨ Currently developing with JavaScript, React, Next.js and TypeScript.   
@@ -9,7 +9,7 @@
 <!-- Skills:  React / JavaScript / Next.js / Node.js / PostgreSQL / HTML / CSS
  -->
 ## Tech stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,react,node.js,postgresql,html,css,sass,figma)]
+![My Skills](https://skillicons.dev/icons?i=js,react,node,postgresql,html,css,sass,figma)
 
 
 
