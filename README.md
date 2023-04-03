@@ -27,13 +27,6 @@
 
 
 
-## Contact me
-<p align="center" width="200px">
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lialila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uliana-cheklina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/LiaLila0)  
-</p>
-
-
 ## Interested In Learning
 Java, Anagular, C++
 
@@ -41,3 +34,10 @@ Java, Anagular, C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lialila)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lialila&show_icons=true&locale=en&layout=compact" alt="lialila" /></p>
+
+
+## Contact me
+<p align="center" width="200px">
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lialila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uliana-cheklina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/LiaLila0)  
+</p>
