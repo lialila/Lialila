@@ -1,10 +1,15 @@
 ### 👋 Hey! I'm Uliana
 
-👩🏻‍💻 I'm web developer based in Vienna.  
-✨ Currently developing with JavaScript, React, Next.js and TypeScript.   
-🤩 I love coding and learning new technologies, always open for new projects!
- 🔭 Currently working on Cooking Groove application, that helps people to find buddies to cook and eat together and also to share ingredients 
-⚡ Fun fact: I have background in classical piano 🎹 
+* 👩🏻‍💻 I'm web developer based in Vienna.  
+
+* ✨ Currently developing with JavaScript, React, Next.js and TypeScript.   
+
+
+* 🤩 I love coding and learning new technologies, always open for new projects!
+
+ * 🔭 Currently working on Cooking Groove application, that helps people to find buddies to cook and eat together and also to share ingredients 
+ 
+* ⚡ Fun fact: I have background in classical piano 🎹 
 
 <!-- Skills:  React / JavaScript / Next.js / Node.js / PostgreSQL / HTML / CSS
  -->
