@@ -2,16 +2,15 @@
 
 👩🏻‍💻 I'm web developer based in Vienna.  
 ✨ Currently developing with JavaScript, React, Next.js and TypeScript.   
-🤩 Always open for new projects!
- 🔭 I’m currently working on Cooking Groove application, that helps people to find buddies to cook and eat together and also to share ingredients 
+🤩 I love coding and learning new technologies, I'm always open for new projects!
+ 🔭 Currently working on Cooking Groove application, that helps people to find buddies to cook and eat together and also to share ingredients 
 ⚡ Fun fact: I have background in classical piano 🎹 
 
 <!-- Skills:  React / JavaScript / Next.js / Node.js / PostgreSQL / HTML / CSS
  -->
 ## Tech stack & Tools
 <p align="center" width="200px">
-  
-  
+    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -36,6 +35,7 @@
 
 
 ## Interested In Learning
+![Angular](https://img.shields.io/badge/-Angular-red) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 Angular, Java, C++
 
 
