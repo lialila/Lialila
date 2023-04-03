@@ -1,6 +1,6 @@
 ### Hi there 👋, 👋 Hey! I'm Uliana Cheklina
 #### Full-stack development
-![Full-stack development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![Full-stack development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
  👩🏻‍💻 I'm web developer based in Vienna.  
 ✨ Currently developing with JavaScript, React, Next.js and TypeScript.   
