@@ -14,4 +14,4 @@ Python, C, Angular, Java
 <h1>Connect with me:</h1>
 https://www.linkedin.com/in/uliana-cheklina
 uche0790@gmail.com
-[![lialila's GitHub stats](https://github-readme-stats.vercel.app/api?username=lialila)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lialila)](https://github.com/anuraghazra/github-readme-stats)
