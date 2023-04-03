@@ -3,7 +3,6 @@
 👩🏻‍💻 I'm Uliana, web developer with a background in classical piano. <br />
 🏠 Based in Vienna.  <br />
 ✨ Currently developing with JavaScript, React, Next.js and TypeScript.  <br />
-🍭 Now working on project 'Cooking-groove', a platform where people can find buddies to cook together and share ingredients.  <br />
 🤩 Always open for new projects!
 
 <h1>Tech Skills:</h1>
@@ -15,3 +14,4 @@ Python, C, Angular, Java
 <h1>Connect with me:</h1>
 https://www.linkedin.com/in/uliana-cheklina
 uche0790@gmail.com
+[![lialila's GitHub stats](https://github-readme-stats.vercel.app/api?username=lialila)](https://github.com/anuraghazra/github-readme-stats)
