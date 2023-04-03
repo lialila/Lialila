@@ -11,6 +11,7 @@
 <!-- Skills:  React / JavaScript / Next.js / Node.js / PostgreSQL / HTML / CSS
  -->
 ## Tech stack & Tools
+Youtube       Twitter              Dev.to       Ko-fi       Free Stuff
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](react.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](https://nodejs.org/)  
 
