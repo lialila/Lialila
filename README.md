@@ -37,6 +37,7 @@ Java, Anagular, C++
 </p>
 
 
+<hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lialila&show_icons=true&locale=en&layout=compact" alt="lialila" /></p>
 
 
