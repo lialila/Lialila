@@ -28,7 +28,7 @@
 
 
 ## Interested In Learning
-Java, Anagular, C++
+Java, Angular, C++
 
 ## Contact me
 <p align="center" width="200px">
