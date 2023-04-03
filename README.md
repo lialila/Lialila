@@ -7,7 +7,7 @@
 
 * 🤩 I love coding and learning new technologies, always open for new projects!
 
- * 🔭 Currently working on Cooking Groove application, that helps people to find buddies to cook and eat together and also to share ingredients 
+* 🔭 Currently working on Cooking Groove application, that helps people to find buddies to cook and eat together and also to share ingredients 
  
 * ⚡ Fun fact: I have background in classical piano 🎹 
 
