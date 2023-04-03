@@ -9,7 +9,7 @@
 <!-- Skills:  React / JavaScript / Next.js / Node.js / PostgreSQL / HTML / CSS
  -->
 ## Tech stack & Tools
-![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nodejs,postgresql,html,css,sass,figma)
+![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nodejs,postgresql,restapi,html,css,sass,figma)
 
 
 
