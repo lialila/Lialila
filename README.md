@@ -36,7 +36,8 @@ GraphQL, Java, Angular, C++
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lialila)  <a href="https://www.linkedin.com/in/u-cheklina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-<hr/>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lialila&show_icons=true&locale=en&layout=compact" alt="lialila" /></p>
 
 
