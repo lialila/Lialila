@@ -28,7 +28,7 @@
 
 
 ## Interested In Learning
-Java, Angular, C++
+GraphQL, Java, Angular, C++
 
 ## Contact me
 <p align="center" width="200px">
