@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I'm web developer based in Vienna.  
 ✨ Currently developing with JavaScript, React, Next.js and TypeScript.   
-🤩 I love coding and learning new technologies, I'm always open for new projects!
+🤩 I love coding and learning new technologies, always open for new projects!
  🔭 Currently working on Cooking Groove application, that helps people to find buddies to cook and eat together and also to share ingredients 
 ⚡ Fun fact: I have background in classical piano 🎹 
 
@@ -35,8 +35,7 @@
 
 
 ## Interested In Learning
-![Angular](https://img.shields.io/badge/-Angular-red) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-Angular, Java, C++
+Java, Anagular, C++
 
 
 
