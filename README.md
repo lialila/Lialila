@@ -33,7 +33,7 @@
 
 
 ## Interested In Learning
-GraphQL, Java, Angular, C++
+Python, C++
 
 ## Contact me
 <p align="center" width="200px">
