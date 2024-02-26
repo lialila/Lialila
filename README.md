@@ -33,7 +33,7 @@
 
 
 ## Interested In Learning
-Python, C++
+Python, Java
 
 ## Contact me
 <p align="center" width="200px">
