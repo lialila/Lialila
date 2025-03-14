@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Uliana
 
-* 👩🏻‍💻 I'm web developer based in Paris and Vienna. 
+* 👩🏻‍💻 I'm web developer based in Vienna. 
 
 * ✨ Currently developing with React, React Native, Next.js, TypeScript, Nest.js.   
 
