@@ -32,7 +32,7 @@
 
 
 ## Interested In Learning
-Python, Java
+Python, C#, Flutter
 
 ## Contact me
 <p align="center" width="200px">
