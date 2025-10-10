@@ -2,7 +2,7 @@
 
 * 👩🏻‍💻 I'm web developer based in Vienna. 
 
-* ✨ Currently developing with React, React Native, Next.js, TypeScript, Nest.js.   
+* ✨ Currently developing with Angular, TypeScript, C# and .NET.   
 
 
 * 🤩 I love coding and learning new technologies, always open for new projects!
